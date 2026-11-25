@@ -1,0 +1,8 @@
+{
+  "name": "duelos-del-115-servidor",
+  "version": "1.0.0",
+  "description": "Servidor de salas para Duelos del 115",
+  "main": "servidor.js",
+  "scripts": { "start": "node servidor.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
